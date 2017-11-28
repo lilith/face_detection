@@ -1,0 +1,6 @@
+[package]
+name = "face_detection"
+version = "0.1.0"
+authors = ["Nathanael Jones <nathanael.jones@gmail.com>"]
+
+[dependencies]
