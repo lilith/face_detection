@@ -4,7 +4,7 @@ Face detection is very useful, but there's currently no Rust implementation.
 
 I've identified a [BSD-licensed face detection library](https://github.com/imazen/SeetaFaceEngine) in C++ that has no third-party dependencies, is cross-platform, and clocks in a 2,200 lines of code.
 
-I'd like to port this to Rust, so that I (and the community) have a safe AND fast face detection library.
+I'd like to port this to Rust, so that I (and the community) have a safe AND fast face detection library. If you're interested in a paid gig, ping me (nathanael.jones@gmail.com). If nobody is interested, I'll probably tackle this a bit later. My C++ is a bit too rusty. 
 
 The C++ source code is located in the /seeta/ directory.
 
